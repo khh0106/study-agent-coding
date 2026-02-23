@@ -10,3 +10,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## 구조
 
 - `실밸개발자/` — 실밸개발자 유튜브 채널 강의 정리 문서 모음
+
+## 학습 가이드 지침
+
+claude-code-guide는 틀린 답을 낼 때가 있다. 사용자가 추가 질문을 하면 Claude Code 공식 문서를 WebFetch로 참조해서 답해. 그 후에는 AskUserQuestion으로 퀴즈를 내서 직접 따라하게 안내해.
