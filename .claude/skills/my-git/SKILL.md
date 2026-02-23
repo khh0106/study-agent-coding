@@ -1,3 +1,10 @@
+---
+name: my-git
+description: 이 레포의 커밋 메시지 컨벤션에 맞게 git commit을 수행한다.
+allowed-tools: Bash, Read
+disable-model-invocation: true
+---
+
 이 레포의 커밋 메시지 컨벤션에 맞게 git commit을 수행한다.
 
 ## 커밋 메시지 컨벤션
